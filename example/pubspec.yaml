@@ -1,0 +1,22 @@
+name: center_action_navbar_example
+description: Example app for the center_action_navbar package.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  center_action_navbar:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
