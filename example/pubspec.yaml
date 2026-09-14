@@ -1,7 +1,7 @@
 name: center_action_navbar_example
 description: Example app for the center_action_navbar package.
 publish_to: "none"
-version: 0.1.0
+version: 0.1.1
 
 environment:
   sdk: ^3.5.0

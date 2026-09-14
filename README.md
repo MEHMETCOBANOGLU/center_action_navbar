@@ -5,11 +5,7 @@ button, notched pill container, and smooth selection animations.
 
 ## Preview
 
-<!--
-Add a screenshot or GIF under screenshots/ and uncomment the line below:
-
 ![Center Action Navbar Preview](screenshots/preview.gif)
--->
 
 ## Features
 

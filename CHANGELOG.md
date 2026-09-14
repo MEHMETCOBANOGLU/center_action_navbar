@@ -1,3 +1,8 @@
+## 0.1.1
+
+- Added package preview screenshot and GIF.
+- Documented preview in README and pubspec screenshots.
+
 ## 0.1.0
 
 - Initial release.
