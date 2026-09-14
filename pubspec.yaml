@@ -2,7 +2,7 @@ name: center_action_navbar
 description: >-
   A customizable Flutter bottom navigation bar with a floating center action
   button, notched pill container, and smooth selection animations.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/MEHMETCOBANOGLU/center_action_navbar
 repository: https://github.com/MEHMETCOBANOGLU/center_action_navbar
 issue_tracker: https://github.com/MEHMETCOBANOGLU/center_action_navbar/issues
@@ -28,8 +28,10 @@ topics:
   - animation
 
 screenshots:
-  - description: Floating center action button with notched pill navbar.
+  - description: Center action navbar on a phone screen.
     path: screenshots/preview.jpg
+  - description: Animated selection and floating center action button.
+    path: screenshots/preview.gif
 
 flutter:
   uses-material-design: true

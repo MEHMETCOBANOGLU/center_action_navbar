@@ -1,7 +1,11 @@
+## 0.1.3
+
+- Updated animated preview GIF.
+
 ## 0.1.2
 
 - Fixed README preview image rendering on pub.dev.
-- Use a compact JPG preview for reliable display.
+- Added compact JPG and cropped animated GIF previews.
 
 ## 0.1.1
 
