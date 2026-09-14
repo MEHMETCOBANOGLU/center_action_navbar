@@ -5,7 +5,14 @@ button, notched pill container, and smooth selection animations.
 
 ## Preview
 
-![Center Action Navbar Preview](screenshots/preview.gif)
+![Center Action Navbar Preview](https://raw.githubusercontent.com/MEHMETCOBANOGLU/center_action_navbar/main/screenshots/preview.jpg)
+
+<!--
+Animated preview (optional). Prefer a cropped/compressed GIF under ~500KB
+if you switch back to .gif — large full-screen GIFs often fail on pub.dev:
+
+![Center Action Navbar Preview](https://raw.githubusercontent.com/MEHMETCOBANOGLU/center_action_navbar/main/screenshots/preview.gif)
+-->
 
 ## Features
 

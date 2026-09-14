@@ -1,3 +1,8 @@
+## 0.1.2
+
+- Fixed README preview image rendering on pub.dev.
+- Use a compact JPG preview for reliable display.
+
 ## 0.1.1
 
 - Added package preview screenshot and GIF.
